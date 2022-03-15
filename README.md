@@ -1,6 +1,6 @@
 
 <div align="center">
-	<img alt="Moamen Eltouny's Welcome Message" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Moamen+Eltouny+GitHub+page+:)&center=true&width=450&height=55">
+	<img alt="Moamen Eltouny's Welcome Message" src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+Moamen+Eltouny's+GitHub&center=trueheight=55">
 </div>
 
 <p align="center">
