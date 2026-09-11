@@ -19,7 +19,13 @@
   <!-- <a href="https://pharaonic.dev"><img src="https://img.shields.io/badge/Website-pharaonic.dev-2ea44f?style=flat-square&logo=globe" alt="Pharaonic Website"></a> -->
 </p>
 
----
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MoamenEltouny/MoamenEltouny/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MoamenEltouny/MoamenEltouny/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/MoamenEltouny/MoamenEltouny/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
 ### 💻 About Me
 * 🌱 I’m currently scaling enterprise backend architectures, cloud infrastructure, and DevOps pipelines.
@@ -57,5 +63,4 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-
-[![Profile Details Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoamenEltouny)](https://github-profile-summary-cards.vercel.app)
+<!--[![Profile Details Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MoamenEltouny)](https://github-profile-summary-cards.vercel.app)-->
